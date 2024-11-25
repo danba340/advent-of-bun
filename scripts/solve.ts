@@ -17,10 +17,10 @@ await scaffold(day, year)
 const name = `${day}`.padStart(2, '0')
 
 const { default: input } = await import(`@/${name}/input.txt`)
-const { partOne, partTwo, parse } = await import(`@/${name}/${name}.ts`)
+const { partOne, partTwo } = await import(`@/${name}/${name}.ts`)
 
-const [one, onePerformance] = withPerformance(() => partOne?.(parse(input)))
-const [two, twoPerformance] = withPerformance(() => partTwo?.(parse(input)))
+const [one, onePerformance] = withPerformance(() => partOne?.(input))
+const [two, twoPerformance] = withPerformance(() => partTwo?.(input))
 
 console.log(
   '🌲',

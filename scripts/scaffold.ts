@@ -17,23 +17,28 @@ export async function scaffold(day: number, year: number) {
   await mkdir(directory)
 
   const test = dedent`
-  import { describe } from 'bun:test'
+  import { describe, expect, test } from 'bun:test'
+  import fs from "fs"
+  import { partOne } from './${name}'
 
   describe(${`'Day ${day}'`}, () => {
-    describe('Part One', () => {})
-    
-    describe('Part Two', () => {})
+    test('Example', () => {
+      const input = fs.readFileSync("src/${name}/example.txt").toString()
+      const result = partOne(input)
+      const expected = "TODO"
+      expect(result).toBe(expected)
+    })
   })
   `
 
   const solution = dedent`
-  export function parse(input: string) {
-    return input
+  export function partOne(input: string) {
+    return "UNIMPLEMENTED"
   }
-  
-  export function partOne(input: ReturnType<typeof parse>) {}
 
-  export function partTwo(input: ReturnType<typeof parse>) {}
+  export function partTwo(input: string) {
+    return "UNIMPLEMENTED"
+  }
   `
 
   console.log(`📂 Fetching your input`)
