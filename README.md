@@ -7,14 +7,14 @@ A template repository for solving Advent of Code and experimenting with Bun runt
 ```bash
 bun install
 ```
-3. Create `.env` file based on `.env.example`.
+3. Create `.env` file based on `.env.example` and insert correct YEAR.
 4. (Optional) Set your session token with environment variables to automatically fetch your input. You can obtain the session token from the AoC session cookie.
 
 ## Running the Code
 To run any solution you have to run the `solve` script. It will create all directories and files for a day, and also it can fetch your input file. Besides that, it watches all the changes you make and shows a result in a terminal.
 
 ### Example usage
-To run a solution for the first day:
+To scaffold the first day:
 ```bash
 bun solve 1
 ```
