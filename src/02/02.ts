@@ -10,7 +10,6 @@ function allBelowAbsVal(nums: number[], val: number) {
 
 export function partOne(input: string) {
   const rows = input.split('\n').filter(r => r.length)
-  console.log(rows.length)
   const numsArray = rows.map(r => r.split(' ').map(num => parseInt(num)))
 
   const diffsArray = numsArray.map(nums => {
@@ -50,7 +49,6 @@ export function partTwo(input: string) {
     copy.splice(i, 1)
     return copy
   })
-  console.log(permutations)
 
   const diffsArrayList = permutations.map(p => {
     return p.map(nums => {
@@ -66,8 +64,6 @@ export function partTwo(input: string) {
       }, [])
     })
   })
-
-  // console.log(diffsArrayList)
 
   const validArrays = diffsArrayList.filter(a => {
     const valid = a.some(p => {
