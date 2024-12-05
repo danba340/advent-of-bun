@@ -44,12 +44,6 @@ export function partTwo(input: string) {
     })
   })
 
-  new Array(numsArray.length).fill(null).map((_, i) => {
-    const copy = [...numsArray]
-    copy.splice(i, 1)
-    return copy
-  })
-
   const diffsArrayList = permutations.map(p => {
     return p.map(nums => {
       let lastNum = 0
