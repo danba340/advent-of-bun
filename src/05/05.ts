@@ -1,3 +1,5 @@
+import { swap } from '@/utils'
+
 function validRuleFilter(update: number[], rule: number[]) {
   const [before, after] = rule
   const iBefore = update.indexOf(before as number)
@@ -9,12 +11,6 @@ function validRuleFilter(update: number[], rule: number[]) {
     return true
   }
   return false
-}
-
-function swap(arr: number[], from: number, to: number) {
-  const tmpEl = arr[from]
-  const tmp = arr.splice(to, 1, tmpEl!)[0]
-  arr.splice(from, 1, tmp!)
 }
 
 export function partOne(input: string) {
@@ -52,8 +48,6 @@ export function partTwo(input: string) {
     .split('\n')
     .filter(r => r.length)
     .map(r => r.split(',').map(n => parseInt(n)))
-
-  console.log(rules)
 
   const invalidUpdates = updates.filter(update => {
     return rules.some(rule => {
