@@ -61,7 +61,6 @@ function canTraverseToPath(x: number, y: number, board: string[][], dir: string)
     }
     if (dir === "LEFT") {
       const nextX = x - 1
-      console.log("LEFT", nextX)
       if (nextX < 0) {
         break
       }
@@ -144,8 +143,6 @@ export function partOne(input: string) {
   let x = board[y]!.findIndex(c => c === "^")!
   let dir = "UP"
   const xSize = board[0]!.length
-
-  console.log("START", x, y)
 
   board[y]![x] = "X"
 
@@ -233,7 +230,6 @@ export function partTwo(input: string) {
   board[y]![x] = "U"
 
   while (x > -1 && x < xSize && y > -1 && y < board.length) {
-    console.log(dir, x, y)
     if (dir === "UP") {
       const nextY = y - 1
       if (nextY < 0) {
@@ -248,7 +244,6 @@ export function partTwo(input: string) {
       } else {
         if (currPos.includes("R") || canTraverseToPath(x, y, board, "RIGHT")) {
           board[nextY]![x] += "O"
-          console.log("O", dir, x, nextY)
         }
         y = nextY
       }
@@ -266,7 +261,6 @@ export function partTwo(input: string) {
         continue
       } else {
         if (currPos.includes("D") || canTraverseToPath(x, y, board, "DOWN")) {
-          console.log("O", dir, nextX, y)
           board[y]![nextX] += "O"
         }
         x = nextX
@@ -285,7 +279,6 @@ export function partTwo(input: string) {
         continue
       } else {
         if (currPos.includes("L") || canTraverseToPath(x, y, board, "LEFT")) {
-          console.log("O", dir, x, nextY)
           board[nextY]![x] += "O"
         }
         board[nextY]![x] += "D"
@@ -305,7 +298,6 @@ export function partTwo(input: string) {
         continue
       } else {
         if (currPos.includes("U") || canTraverseToPath(x, y, board, "UP")) {
-          console.log("O", dir, nextX, y)
           board[y]![nextX] += "O"
         }
         x = nextX
@@ -313,31 +305,29 @@ export function partTwo(input: string) {
     }
   }
 
-  console.log("AFTER")
-
   let visitedCount = 0
   for (const row of board) {
-    console.log(row.map(c => {
-      if (c.includes("#")) {
-        return "#"
-      }
-      if (c.includes("O")) {
-        return "O"
-      }
-      if (
-        (c.includes("U") || c.includes("D")) &&
-        (c.includes("L") || c.includes("R"))
-      ) {
-        return "+"
-      }
-      if (c.includes("U") || c.includes("D")) {
-        return "|"
-      }
-      if (c.includes("L") || c.includes("R")) {
-        return "-"
-      }
-      return " "
-    }).join(""))
+    // console.log(row.map(c => {
+    //   if (c.includes("#")) {
+    //     return "#"
+    //   }
+    //   if (c.includes("O")) {
+    //     return "O"
+    //   }
+    //   if (
+    //     (c.includes("U") || c.includes("D")) &&
+    //     (c.includes("L") || c.includes("R"))
+    //   ) {
+    //     return "+"
+    //   }
+    //   if (c.includes("U") || c.includes("D")) {
+    //     return "|"
+    //   }
+    //   if (c.includes("L") || c.includes("R")) {
+    //     return "-"
+    //   }
+    //   return " "
+    // }).join(""))
     for (const x of row) {
       if (x.includes("O")) {
         visitedCount++
