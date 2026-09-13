@@ -32,3 +32,7 @@ The goal of this repo is creating great portfolio for Lisa Bark tailored to a sp
   - Once you have an agreement with Lisa about the portfolio content and rationale for it its time to start ideating on the look of the portfolio. Screenshot files are in the repo before this starts.
   - You create 5 variants in HTML and have Lisa pick one or generate 5 more with her input on what more exactly she is looking for. Once she picks one she might have some tweaks for you to finalize it. 
   - Once the HTML portfolio design process is finalized you export it both as docx and pdf where all texts and images should be easily editable by Lisa for final touchup.
+
+# Local tooling
+ - Read the past application: `pdftotext -layout past-applications/application.pdf -` (poppler-utils).
+ - Export a finished HTML variant to PDF + DOCX: `scripts/export-portfolio.sh <input.html> [output-basename]`. PDF is rendered by headless Chrome (keeps the CSS design), DOCX by pandoc (text/images stay editable). Scratch outputs go under `build/`.
