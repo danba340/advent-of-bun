@@ -34,5 +34,6 @@ The goal of this repo is creating great portfolio for Lisa Bark tailored to a sp
   - Once the HTML portfolio design process is finalized you export it both as docx and pdf where all texts and images should be easily editable by Lisa for final touchup.
 
 # Local tooling
+ - Toolchain: the Cloud Agent env (`.cursor/environment.json`) provisions `pandoc` + `poppler-utils` via `scripts/setup-tools.sh`. Run that script yourself if those tools are ever missing (Chrome, Node, and Python are already in the base image).
  - Read the past application: `pdftotext -layout past-applications/application.pdf -` (poppler-utils).
- - Export a finished HTML variant to PDF + DOCX: `scripts/export-portfolio.sh <input.html> [output-basename]`. PDF is rendered by headless Chrome (keeps the CSS design), DOCX by pandoc (text/images stay editable). Scratch outputs go under `build/`.
+ - Export a finished HTML variant to PDF + DOCX: `scripts/export-portfolio.sh <input.html> [output-basename]`. PDF is rendered by headless Chrome (keeps the CSS design), DOCX by pandoc (text/images stay editable). It auto-runs `setup-tools.sh` if the toolchain is missing. Scratch outputs go under `build/`.

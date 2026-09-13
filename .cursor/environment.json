@@ -1,0 +1,4 @@
+{
+  "name": "Lisa Bark Portfolio Creator",
+  "install": "bash scripts/setup-tools.sh"
+}

@@ -28,6 +28,13 @@ BASE="${2:-${INPUT%.*}}"
 OUT_DIR="$(dirname "$BASE")"
 mkdir -p "$OUT_DIR"
 
+# Self-heal: ensure the export toolchain is present even if the environment
+# install step never ran (e.g. a fresh agent without a configured environment).
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+if ! { command -v pandoc >/dev/null && command -v pdftotext >/dev/null; }; then
+  bash "$SCRIPT_DIR/setup-tools.sh"
+fi
+
 # Prefer the real Chrome binary over any desktop wrapper: the wrapper pins a shared
 # --user-data-dir + --remote-debugging-port, which makes headless --print-to-pdf hang.
 CHROME=""
