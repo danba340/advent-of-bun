@@ -1,4 +1,4 @@
 {
   "name": "Lisa Bark Portfolio Creator",
-  "install": "command -v pandoc >/dev/null && command -v pdftotext >/dev/null || (sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y pandoc poppler-utils)"
+  "install": "bash scripts/setup-tools.sh"
 }
