@@ -14,4 +14,4 @@ Answer (2026-09-15):
 
 Drafted 2026-09-15. Waiting on Lisa.
 
-Rationale for the Assessor: a short scan should show current Ascom UX, five years, lead on desk plus field for hospital transport, medical-device evaluation she did not design, and SASICU as open research. Last paragraph names Fleet as web plus mobile for connected machines (status, overdue, people in the field) and puts her desktop and mobile next to that, without saying the products are the same. Worklist vs Coordinator priority, Administrator Task types, Dashboard fields, and Transport outcomes stay in the Projects. Under 150 words. No CV, education, or Sahlgrenska.
+Rationale for the Assessor: a short scan should show current Ascom UX, five years, lead on desk plus field for hospital transport, medical-device evaluation she did not design, and SASICU as open research. Last paragraph names Fleet as web plus mobile for connected machines (status, overdue, people in the field) and stops. No recap that restates her desktop and mobile. Worklist vs Coordinator priority, Administrator Task types, Dashboard fields, and Transport outcomes stay in the Projects. 114 words. No CV, education, or Sahlgrenska.

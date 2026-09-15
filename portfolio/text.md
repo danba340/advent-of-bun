@@ -4,8 +4,8 @@ English, first person. Opening, then three Projects, then Close. Lisa approves e
 
 ## Opening
 
-I'm a UX designer at Ascom. For five years I have been lead designer on hospital transport, a desktop for coordinators on eight-hour shifts and a mobile app for porters who carry out the tasks.
+I work as a UX designer at Ascom. Ascom develops communication solutions so that critical information reaches the right person at the right time. I get to work with the whole design process, from early concepts and user tests to summative evaluations.
 
-I also run formative and summative evaluations on critical alarm handling in the medical-device process. I did not design that product. I was the main UX person on SASICU, an EU study of ICU alarms. I ran interviews and shadowing in three hospitals, then made an initial concept. That work is still open.
+A project I have driven throughout my employment is the hospital transport system, with a desktop for coordinators on eight-hour shifts as well as a mobile app for porters who carry out the tasks. For critical alarm handling I have worked with formative and summative evaluations in the medical-device process. I have not worked with the design for that product. On SASICU I was the main UX person. That work is still open.
 
-Husqvarna Fleet is a web tool and a mobile app for people who run connected machines. They watch status, overdue work, and people in the field.
+Husqvarna Fleet is a web tool and a mobile app for professional users of connected machines. The work has a strong focus on overview of status, overdue work, and people in the field.
