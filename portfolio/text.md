@@ -47,7 +47,7 @@ The work has had a strong focus on supporting both ways of working, depending on
 
 ## SASICU
 
-SASICU is an EU project with the aim of making alarm handling in intensive care more efficient. I was the main UX person. I worked with clarifying care staff's ways of working.
+SASICU is an EU project with the aim of making alarm handling in intensive care more efficient. I was the main UX person. I worked with clarifying how the care staff work.
 
 I conducted, among other things, interviews and a shadowing study in three hospitals, two in the Netherlands and one in Sweden, on neonatal and intensive care wards.
 
