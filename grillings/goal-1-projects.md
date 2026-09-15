@@ -105,4 +105,15 @@ Answer (2026-09-15):
 - Worked on the workflows for when teams collectively receive tasks and pick from a Worklist.
 - Two ways of working, depending on hospital: pick from a Worklist, or receive what the Coordinator says is the priority (mostly 1–2 transports in a row).
 
-Still needed for this Project: Screenshots she may include; tests, specs, accolades if any. Do not assume coordinator-style tests or user stories unless she says so.
+Still needed for this Project: tests, specs, accolades if any. Do not assume coordinator-style tests or user stories unless she says so.
+
+## Q8 — Porter mobile: which Screenshots
+
+Asked: which Screenshots of Porter mobile are you allowed to include? Recommended: Worklist; Coordinator-priority view with one or two transports.
+
+Answer (2026-09-15):
+
+- The Worklist.
+- The page for accepted and Ongoing tasks.
+
+Not offered: a separate still of Coordinator priority. Write that mode in prose.

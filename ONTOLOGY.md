@@ -46,14 +46,17 @@ Desktop user who configures Transport. Sets up Task types. Not the Coordinator o
 A kind of transport. The Administrator configures them. The Coordinator then sees those types in the Dashboard.
 
 **Porter mobile**:
-Portfolio Project. Lisa owned it the same way as Coordinator desktop. Mobile workflow for the Porter. Two hospital ways of working: Worklist, or Coordinator priority (mostly 1–2 transports in a row).
+Portfolio Project. Lisa owned it the same way as Coordinator desktop. Mobile workflow for the Porter. Two hospital ways of working: Worklist, or Coordinator priority (mostly 1–2 transports in a row). Showable Screenshots: Worklist; the page for accepted and Ongoing tasks.
 
 **Worklist**:
-Hospital way of working on Porter mobile. The team collectively receives tasks and picks from a shared list.
+Hospital way of working on Porter mobile. The team collectively receives tasks and picks from a shared list. Also a showable screen.
+
+**Ongoing**:
+Porter mobile page for accepted and ongoing tasks.
 
 **Coordinator priority**:
 Hospital way of working on Porter mobile. The Porter receives what the Coordinator sets as the priority, mostly one or two transports in a row.
-_Avoid_: treating this as the only mobile workflow. Some hospitals use Worklist.
+_Avoid_: treating this as the only mobile workflow. Some hospitals use Worklist. No separate Screenshot of this mode has been offered.
 
 **SASICU**:
 Portfolio Project. EU research on ICU alarm handling. Interviews and observation, risk, concept for alarm levels. Not a shipped UI Project.
