@@ -14,4 +14,4 @@ Avoided: cream + terracotta serif, black + acid accent, newspaper hairlines, Saa
 
 ## Status
 
-Lisa picked **5. Birch shop** on 2026-09-15. Chosen file: `portfolio/lisa-bark.html`. Waiting on tweaks, then PDF + DOCX export.
+Lisa picked **5. Birch shop** on 2026-09-15. No further tweaks. Exported PDF and DOCX to `portfolio/export/lisa-bark-husqvarna.pdf` and `.docx`. Chosen HTML: `portfolio/lisa-bark.html`. Screenshot PNGs still placeholders.

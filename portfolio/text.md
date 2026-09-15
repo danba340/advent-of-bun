@@ -14,7 +14,7 @@ Husqvarna Fleet is a web tool and a mobile app for professional users of connect
 
 In larger hospitals the coordinators sit at a desktop during eight-hour shifts. They need a good overview of different types of transports, current transports as well as future ones. They read the tasks in a dashboard, with a focus on time, criticality, and overdue statuses.
 
-![Main Dashboard](../screenshots/coordinator-dashboard.svg)
+![Main Dashboard](../screenshots/coordinator-dashboard.png)
 
 This is where the coordinator mainly works. They also have control over each porter's workload, breaks, and shifts.
 
@@ -22,8 +22,8 @@ I was lead designer for the coordinator desktop. I took over the project after a
 
 Administrators configure the different task types.
 
-![Administrator: task type overview](../screenshots/administrator-task-type-overview.svg)
-![Administrator: task type configuration](../screenshots/administrator-task-type-config.svg)
+![Administrator: task type overview](../screenshots/administrator-task-type-overview.png)
+![Administrator: task type configuration](../screenshots/administrator-task-type-config.png)
 
 The coordinators then see those types in the dashboard.
 
@@ -33,13 +33,13 @@ The work has had a strong focus on reducing wrong orders, shortening waiting tim
 
 The porters carry out the transport tasks in a mobile app, on iOS as well as Android. Depending on the hospital there are two different ways of working. Either the team picks from a shared worklist, or the porter receives what the coordinator has set as the priority, mostly one or two transports in a row.
 
-![Worklist](../screenshots/porter-worklist.svg)
+![Worklist](../screenshots/porter-worklist.png)
 
 This is the worklist. The team receives the tasks collectively and the porters pick from that list. It has to be clear for the porter when they receive an acute transport. Sound, vibration, and visuals help them prioritize the transportation tasks in the list.
 
 I owned the porter mobile in the same way as the coordinator desktop. I worked on the workflows for when teams pick from a worklist, as well as the workflow where the coordinator decides the priority.
 
-![Accepted and ongoing tasks](../screenshots/porter-ongoing-tasks.svg)
+![Accepted and ongoing tasks](../screenshots/porter-ongoing-tasks.png)
 
 When a porter has accepted a task, this is the page for accepted and ongoing work.
 
@@ -51,12 +51,12 @@ SASICU is an EU project with the aim of making alarm handling in intensive care 
 
 I conducted, among other things, interviews and a shadowing study in three hospitals, two in the Netherlands and one in Sweden, on neonatal and intensive care wards.
 
-![Shadowing](../screenshots/sasicu-shadowing.svg)
+![Shadowing](../screenshots/sasicu-shadowing.png)
 
 A lot of focus was on risk, as well as an initial concept for handling different alarm levels.
 
-![Blurred high-level concept](../screenshots/sasicu-concept-blurred.svg)
-![Flows](../screenshots/sasicu-flows.svg)
+![Blurred high-level concept](../screenshots/sasicu-concept-blurred.png)
+![Flows](../screenshots/sasicu-flows.png)
 
 I worked on the insights. They were presented both internally and to a research team in the Netherlands. That work is still open.
 

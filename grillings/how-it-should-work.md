@@ -48,7 +48,7 @@ Each Project: scannable in about a minute, readable in a few minutes. Opening un
 
 ## Screenshots
 
-Named placeholder files in `screenshots/`. Lisa replaces them later, same names. No fake UI.
+Named placeholder files in `screenshots/` (PNG). Lisa replaces them later, same names. No fake UI.
 
 ## Confirmed
 
@@ -60,4 +60,4 @@ Named placeholder files in `screenshots/`. Lisa replaces them later, same names.
 
 2026-09-15. SASICU is ongoing. It might become a product or not. That is not shareable. No product outcome in the Portfolio.
 
-2026-09-15. Goal 3: Lisa picked Birch shop. Chosen file `portfolio/lisa-bark.html`. Screenshot files still placeholders.
+2026-09-15. Goal 3: Birch shop chosen, no tweaks. PDF and DOCX exported to `portfolio/export/`. Screenshot PNGs still placeholders.
