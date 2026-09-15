@@ -28,6 +28,16 @@ _Avoid_: Husqvarna as a synonym for the Job. Husqvarna is the company.
 **Ascom**:
 Lisa's current employer and the main pool of Projects to surface. The Application names some of that work. Goal 1 asks for more.
 
+**Transport**:
+Ascom's hospital internal transport system. One product, two candidate Projects: Coordinator desktop and Porter mobile.
+_Avoid_: calling the whole product one Portfolio Project once we have agreed the split.
+
+**Coordinator**:
+Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Coordinates and watches status of current and future transports.
+
+**Porter**:
+Mobile user of Transport. Receives transportation tasks and executes them.
+
 ## Work products
 
 **Project**:
