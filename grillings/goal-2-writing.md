@@ -30,6 +30,12 @@ Rationale for the Assessor: this is the Fleet field app. Two hospital ways of wo
 
 ## SASICU
 
-Drafted 2026-09-15. Waiting on Lisa.
+Approved 2026-09-15.
 
 Rationale for the Assessor: this is research through concept, which the Job asks for, without pretending it shipped. Main UX, three hospitals, neonatal and ICU, risk, alarm levels. Insights presented internally and in the Netherlands. Stills: shadowing, blurred concept, flows. No product outcome. Fleet analog is attention and risk, not a mower UI. Keep it shorter than Transport so the Recruiter does not think this is the design lead.
+
+## Close
+
+Drafted 2026-09-15. Waiting on Lisa.
+
+Rationale for the Assessor: contact only. Name, Bankeryd, email, and phone from the Application. Bankeryd is here because the Job is on-site in Huskvarna at least four days a week. No street address. No LinkedIn (none supplied for the Portfolio). No recap of the Projects. No thank-you line.

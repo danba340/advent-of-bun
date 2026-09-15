@@ -59,3 +59,10 @@ A lot of focus was on risk, as well as an initial concept for handling different
 [Screenshot: flows]
 
 I worked on the insights. They were presented both internally and to a research team in the Netherlands. That work is still open.
+
+## Close
+
+Lisa Bark  
+Bankeryd  
+jacobss.lisa@gmail.com  
++46 73 672 82 20
