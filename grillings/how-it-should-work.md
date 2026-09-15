@@ -48,8 +48,16 @@ Each Project: scannable in about a minute, readable in a few minutes. Opening un
 
 ## Screenshots
 
-Lisa adds the files to the repo before Goal 3. No fake UI.
+Named placeholder files in `screenshots/` (PNG). Lisa replaces them later, same names. No fake UI.
 
 ## Confirmed
 
 2026-09-13. Lisa said yes to the working agreement: Husqvarna Fleet Portfolio, English, first person, Opening + three Ascom Projects + Close. Hunt more Ascom work in Goal 1, then argue Job fit. No LinkedIn scrape, CV dump, education list, Sahlgrenska or internships as one of the three, fake UI, tools-used strips, or double diamonds.
+
+2026-09-15. Elderly care is out of the three. Assault alarms is not one of the three. Critical alarm handling is evaluation, not design of that product; Opening evidence, not one of the three.
+
+2026-09-15. The three Projects are Coordinator desktop, Porter mobile, and SASICU. All Ascom.
+
+2026-09-15. SASICU is ongoing. It might become a product or not. That is not shareable. No product outcome in the Portfolio.
+
+2026-09-15. Goal 3: Birch shop chosen, no tweaks. PDF and DOCX exported to `portfolio/export/`. Screenshot PNGs still placeholders.

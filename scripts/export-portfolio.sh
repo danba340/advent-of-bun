@@ -31,7 +31,7 @@ mkdir -p "$OUT_DIR"
 # Self-heal: ensure the export toolchain is present even if the environment
 # install step never ran (e.g. a fresh agent without a configured environment).
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-if ! { command -v pandoc >/dev/null && command -v pdftotext >/dev/null; }; then
+if ! { command -v pandoc >/dev/null && command -v pdftotext >/dev/null && command -v rsvg-convert >/dev/null; }; then
   bash "$SCRIPT_DIR/setup-tools.sh"
 fi
 
@@ -57,7 +57,16 @@ echo "Rendering PDF via ${CHROME##*/} ..."
   "file://${ABS_INPUT}" >/dev/null 2>&1
 
 echo "Rendering DOCX via pandoc ..."
-pandoc "$INPUT" -f html -t docx --extract-media="${OUT_DIR}/media" -o "${BASE}.docx"
+HTML_DIR="$(dirname "$ABS_INPUT")"
+HTML_BASE="$(basename "$ABS_INPUT")"
+OUT_DIR_ABS="$(realpath "$OUT_DIR")"
+DOCX_NAME="$(basename "$BASE").docx"
+# Image srcs in the HTML are relative to the HTML file (e.g. ../screenshots/...).
+# Pandoc resolves them from cwd, so run from the HTML directory.
+(
+  cd "$HTML_DIR"
+  pandoc "$HTML_BASE" -f html -t docx --extract-media="${OUT_DIR_ABS}/media" -o "${OUT_DIR_ABS}/${DOCX_NAME}"
+)
 
 echo "Done:"
 echo "  ${BASE}.pdf"
