@@ -57,3 +57,5 @@ Lisa adds the files to the repo before Goal 3. No fake UI.
 2026-09-15. Elderly care is out of the three. Assault alarms is not one of the three. Critical alarm handling is evaluation, not design of that product; Opening evidence, not one of the three.
 
 2026-09-15. The three Projects are Coordinator desktop, Porter mobile, and SASICU. All Ascom.
+
+2026-09-15. SASICU is ongoing. It might become a product or not. That is not shareable. No product outcome in the Portfolio.

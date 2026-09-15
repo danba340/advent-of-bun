@@ -129,7 +129,7 @@ Answer (2026-09-15):
 - Worked on the initial concept.
 - Was the main UX person.
 
-Still needed for this Project: accolades; what changed beyond presenting insights.
+Still needed for this Project: accolades.
 
 ## Q10 — SASICU: which Screenshots
 
@@ -140,3 +140,15 @@ Answer (2026-09-15):
 - Pictures of the shadowing.
 - A blurred high-level concept.
 - Flows.
+
+## Q11 — SASICU: what changed
+
+Asked: after the SASICU insights and initial concept, what changed? Recommended: used as basis for next work; no shipped product; no accolade.
+
+Answer (2026-09-15):
+
+- Ongoing.
+- Might become a product or not.
+- She cannot share that.
+
+Write SASICU as research that is still open. No product outcome. Accolades still unasked for all three.
