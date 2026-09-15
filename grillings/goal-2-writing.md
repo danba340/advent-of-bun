@@ -24,6 +24,12 @@ Rationale for the Assessor: this is the Fleet desk. An eight-hour professional u
 
 ## Porter mobile
 
-Drafted 2026-09-15. Revised the same day: Acute transport, with sound, vibration, and visuals in the list. Waiting on Lisa.
+Approved 2026-09-15. Includes Acute transport: sound, vibration, and visuals in the list.
 
 Rationale for the Assessor: this is the Fleet field app. Two hospital ways of working, so not one workflow for every site. Worklist is team pick. Coordinator priority is dispatched work, one or two at a time. Acute transport is the "needs attention now" signal: sound, vibration, and visuals, like a machine that cannot wait. iOS and Android from the Application. Ownership matches the desktop. No tests-with-porters claim. No second copy of the wrong-order outcomes. Coordinator priority has no still. No still offered for the acute signal. Screenshots: Worklist, then accepted and Ongoing.
+
+## SASICU
+
+Drafted 2026-09-15. Waiting on Lisa.
+
+Rationale for the Assessor: this is research through concept, which the Job asks for, without pretending it shipped. Main UX, three hospitals, neonatal and ICU, risk, alarm levels. Insights presented internally and in the Netherlands. Stills: shadowing, blurred concept, flows. No product outcome. Fleet analog is attention and risk, not a mower UI. Keep it shorter than Transport so the Recruiter does not think this is the design lead.

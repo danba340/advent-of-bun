@@ -44,3 +44,18 @@ I owned the porter mobile in the same way as the coordinator desktop. I worked o
 When a porter has accepted a task, this is the page for accepted and ongoing work.
 
 The work has had a strong focus on supporting both ways of working, depending on the hospital.
+
+## SASICU
+
+SASICU is an EU project with the aim of making alarm handling in intensive care more efficient. I was the main UX person. I worked with clarifying care staff's ways of working.
+
+I conducted, among other things, interviews and a shadowing study in three hospitals, two in the Netherlands and one in Sweden, on neonatal and intensive care wards.
+
+[Screenshot: pictures of the shadowing]
+
+A lot of focus was on risk, as well as an initial concept for handling different alarm levels.
+
+[Screenshot: blurred high-level concept]
+[Screenshot: flows]
+
+I worked on the insights. They were presented both internally and to a research team in the Netherlands. That work is still open.
