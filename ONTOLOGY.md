@@ -33,11 +33,17 @@ Ascom's hospital internal transport system. One product, two of the three Portfo
 _Avoid_: treating Transport as a third, separate Project.
 
 **Coordinator desktop**:
-Portfolio Project. Lisa was lead designer. Desktop software for the Coordinator. Main structure of the coordination workflow: overview of different types of transports. Dashboard of tasks (time, criticality, overdue). Control of each Porter's workload, breaks, and shifts.
+Portfolio Project. Lisa was lead designer. Desktop software for the Coordinator. Main structure of the coordination workflow: overview of different types of transports. Dashboard of tasks (time, criticality, overdue). Control of each Porter's workload, breaks, and shifts. Showable Screenshots: the main Dashboard, Administrator overview of Task type settings, Administrator configuration of Task types.
 
 **Dashboard**:
-The Coordinator desktop surface where the Coordinator reads tasks, focusing on time, criticality, and overdue statuses.
+The Coordinator desktop surface where the Coordinator mainly works. Reads tasks, focusing on time, criticality, and overdue statuses.
 _Avoid_: calling the whole Coordinator desktop the Dashboard.
+
+**Administrator**:
+Desktop user who configures Transport. Sets up Task types. Not the Coordinator on the 8-hour shift.
+
+**Task type**:
+A kind of transport. The Administrator configures them. The Coordinator then sees those types in the Dashboard.
 
 **Porter mobile**:
 Portfolio Project. Mobile workflow for the Porter: receiving and executing transportation tasks.

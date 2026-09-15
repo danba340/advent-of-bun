@@ -81,4 +81,16 @@ Answer (2026-09-15):
 - Wrote user stories for needs found during tests, and formulated upcoming features/needs.
 - Worked continuously with the product during her 5 years at Ascom.
 
-Still needed for this Project: what Screenshots she may include; accolades if any. Skills and ways of working partly covered (lead designer, tests with coordinators, user stories, continuous product work).
+Still needed for this Project: accolades if any. Skills and ways of working partly covered (lead designer, tests with coordinators, user stories, continuous product work).
+
+## Q6 — Coordinator desktop: which Screenshots
+
+Asked: which Screenshots of Coordinator desktop are you allowed to include? Recommended: Dashboard; Porter workload/breaks/shifts; one view of transport types.
+
+Answer (2026-09-15):
+
+- Main Dashboard, where the Coordinator mainly works.
+- Administrator pages: overview of the different Task type settings.
+- The screen where the Administrator configures the different Task types.
+
+Not offered: Porter workload/breaks/shifts as a still. Write that in prose if it stays in the story.
