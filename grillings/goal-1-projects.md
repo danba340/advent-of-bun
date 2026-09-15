@@ -38,3 +38,13 @@ Answer (2026-09-15):
 - She asks whether that is still a good Portfolio match. It would show evaluation knowledge rather than design/UI.
 
 Job-fit note (not Lisa's words): Weak as one of the three. The Job is UX/UI; the Assessor will skim for design she owns. Transport already covers iterative tests, so a third that is only evaluation repeats that without adding UI. Strong as Opening evidence (formative vs summative, medical-device process). Assault alarms remain the unused Application product that is UI work. SASICU remains the research spare.
+
+## Q3 — Third Project: assault alarms?
+
+Asked: is the third Project assault alarms? Recommended: yes. Coordinator desktop, Porter mobile, assault alarms. Critical alarm handling in the Opening only.
+
+Answer (2026-09-15):
+
+- No. Assault alarms is not the third Project.
+
+Job-fit note (not Lisa's words): Remaining thirds from the named pool are SASICU (research and a concept she made) or Critical alarm handling (evaluation, no design). No other designed Ascom product has been named.
