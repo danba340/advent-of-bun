@@ -60,4 +60,4 @@ Lisa adds the files to the repo before Goal 3. No fake UI.
 
 2026-09-15. SASICU is ongoing. It might become a product or not. That is not shareable. No product outcome in the Portfolio.
 
-2026-09-15. Goal 1 closed. No accolades to claim. Ready for Goal 2 (write one section at a time).
+2026-09-15. Goal 1 closed. No accolades to claim. Goal 2 started. Opening drafted, not yet approved.
