@@ -29,8 +29,17 @@ _Avoid_: Husqvarna as a synonym for the Job. Husqvarna is the company.
 Lisa's current employer and the main pool of Projects to surface. The Application names some of that work. Goal 1 asks for more.
 
 **Transport**:
-Ascom's hospital internal transport system. One product, two candidate Projects: Coordinator desktop and Porter mobile.
-_Avoid_: calling the whole product one Portfolio Project once we have agreed the split.
+Ascom's hospital internal transport system. One product, two of the three Portfolio Projects: Coordinator desktop and Porter mobile.
+_Avoid_: treating Transport as a third, separate Project.
+
+**Coordinator desktop**:
+Portfolio Project. Desktop software for the Coordinator: coordination and status of current and future transports.
+
+**Porter mobile**:
+Portfolio Project. Mobile workflow for the Porter: receiving and executing transportation tasks.
+
+**SASICU**:
+Portfolio Project. EU research on ICU alarm handling. Interviews and observation, risk, concept for alarm levels. Not a shipped UI Project.
 
 **Coordinator**:
 Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Coordinates and watches status of current and future transports.
@@ -39,7 +48,7 @@ Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Coordinates
 Mobile user of Transport. Receives transportation tasks and executes them.
 
 **Critical alarm handling**:
-Ascom product for receiving and viewing alarms of different criticality. Lisa's work on it is evaluation (formative and summative, including icons and a large release), in the medical-device process, not design of this product.
+Ascom product for receiving and viewing alarms of different criticality. Lisa's work on it is evaluation (formative and summative, including icons and a large release), in the medical-device process, not design of this product. Opening evidence, not one of the three.
 _Avoid_: heart-monitoring alarms as the Project name.
 
 ## Work products

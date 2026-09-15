@@ -48,3 +48,19 @@ Answer (2026-09-15):
 - No. Assault alarms is not the third Project.
 
 Job-fit note (not Lisa's words): Remaining thirds from the named pool are SASICU (research and a concept she made) or Critical alarm handling (evaluation, no design). No other designed Ascom product has been named.
+
+## Q4 — Third Project: SASICU?
+
+Asked: is the third Project SASICU? Recommended: yes. Coordinator desktop, Porter mobile, SASICU. Critical alarm handling in the Opening only.
+
+Answer (2026-09-15):
+
+- Yes. The three Projects are Coordinator desktop, Porter mobile, and SASICU.
+
+## The three (agreed)
+
+1. Coordinator desktop
+2. Porter mobile
+3. SASICU
+
+Out: elderly care, assault alarms. Opening only: Critical alarm handling.
