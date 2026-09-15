@@ -94,3 +94,15 @@ Answer (2026-09-15):
 - The screen where the Administrator configures the different Task types.
 
 Not offered: Porter workload/breaks/shifts as a still. Write that in prose if it stays in the story.
+
+## Q7 — Porter mobile: what Lisa did
+
+Asked: on Porter mobile, what did you personally do? Recommended: owned the workflow the same way / shared / supported.
+
+Answer (2026-09-15):
+
+- Owned it the same way as Coordinator desktop.
+- Worked on the workflows for when teams collectively receive tasks and pick from a Worklist.
+- Two ways of working, depending on hospital: pick from a Worklist, or receive what the Coordinator says is the priority (mostly 1–2 transports in a row).
+
+Still needed for this Project: Screenshots she may include; tests, specs, accolades if any. Do not assume coordinator-style tests or user stories unless she says so.

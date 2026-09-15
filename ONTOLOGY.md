@@ -46,7 +46,14 @@ Desktop user who configures Transport. Sets up Task types. Not the Coordinator o
 A kind of transport. The Administrator configures them. The Coordinator then sees those types in the Dashboard.
 
 **Porter mobile**:
-Portfolio Project. Mobile workflow for the Porter: receiving and executing transportation tasks.
+Portfolio Project. Lisa owned it the same way as Coordinator desktop. Mobile workflow for the Porter. Two hospital ways of working: Worklist, or Coordinator priority (mostly 1–2 transports in a row).
+
+**Worklist**:
+Hospital way of working on Porter mobile. The team collectively receives tasks and picks from a shared list.
+
+**Coordinator priority**:
+Hospital way of working on Porter mobile. The Porter receives what the Coordinator sets as the priority, mostly one or two transports in a row.
+_Avoid_: treating this as the only mobile workflow. Some hospitals use Worklist.
 
 **SASICU**:
 Portfolio Project. EU research on ICU alarm handling. Interviews and observation, risk, concept for alarm levels. Not a shipped UI Project.
@@ -56,7 +63,7 @@ Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Reads the D
 _Avoid_: executer. The person who runs the tasks is the Porter.
 
 **Porter**:
-Mobile user of Transport. Receives transportation tasks and executes them.
+Mobile user of Transport. Receives transportation tasks and executes them. Depending on hospital: picks from a Worklist, or follows Coordinator priority.
 
 **Critical alarm handling**:
 Ascom product for receiving and viewing alarms of different criticality. Lisa's work on it is evaluation (formative and summative, including icons and a large release), in the medical-device process, not design of this product. Opening evidence, not one of the three.
