@@ -38,6 +38,10 @@ Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Coordinates
 **Porter**:
 Mobile user of Transport. Receives transportation tasks and executes them.
 
+**Critical alarm handling**:
+Ascom product for receiving and viewing alarms of different criticality. Lisa's work on it is evaluation (formative and summative, including icons and a large release), in the medical-device process, not design of this product.
+_Avoid_: heart-monitoring alarms as the Project name.
+
 ## Work products
 
 **Project**:
@@ -60,3 +64,5 @@ A still of Lisa's work that she is allowed to include. She adds these to the rep
 ## Flagged ambiguities
 
 **Lisa** means Lisa Bark unless we say Recruiter or use the surname Hannerz.
+
+**Critical alarm handling** is Lisa's name for the receive-and-view alarm product. The Application still says she designs UI for heart-monitoring alarms. Do not treat those as proof she designed this product.

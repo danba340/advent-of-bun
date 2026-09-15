@@ -53,3 +53,5 @@ Lisa adds the files to the repo before Goal 3. No fake UI.
 ## Confirmed
 
 2026-09-13. Lisa said yes to the working agreement: Husqvarna Fleet Portfolio, English, first person, Opening + three Ascom Projects + Close. Hunt more Ascom work in Goal 1, then argue Job fit. No LinkedIn scrape, CV dump, education list, Sahlgrenska or internships as one of the three, fake UI, tools-used strips, or double diamonds.
+
+2026-09-15. Elderly care is out of the three. Critical alarm handling is evaluation, not design of that product; treat as Opening evidence unless Lisa overrides.

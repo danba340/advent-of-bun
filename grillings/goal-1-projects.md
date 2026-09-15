@@ -23,4 +23,18 @@ Answer (2026-09-15):
 - SASICU can be treated as a research Project.
 - Elderly care: do not focus on it. Out of the three.
 
-Job-fit note (not Lisa's words): Coordinator desktop maps to Fleet's web overview. Porter mobile maps to Fleet's field app. Two slices of one product can look like one story split in half; they also match the Job's two surfaces. Still need a third Project. Heart-monitoring alarms are the strongest unused match for connected hardware + software + services. Assault alarms unused. SASICU is the research spare.
+Job-fit note (not Lisa's words): Coordinator desktop maps to Fleet's web overview. Porter mobile maps to Fleet's field app. Two slices of one product can look like one story split in half; they also match the Job's two surfaces. Still need a third Project.
+
+## Q2 — Third Project: Critical alarm handling?
+
+Asked: which third Project sits with Coordinator desktop and Porter mobile? Recommended: heart-monitoring alarms.
+
+Answer (2026-09-15):
+
+- Name it **Critical alarm handling**, not heart-monitoring alarms.
+- Product: receiving and viewing alarms. Different criticality.
+- Lisa worked in the medical-device process. Formative and summative evaluations, including icons and a large new release.
+- She has not worked with the design for this product.
+- She asks whether that is still a good Portfolio match. It would show evaluation knowledge rather than design/UI.
+
+Job-fit note (not Lisa's words): Weak as one of the three. The Job is UX/UI; the Assessor will skim for design she owns. Transport already covers iterative tests, so a third that is only evaluation repeats that without adding UI. Strong as Opening evidence (formative vs summative, medical-device process). Assault alarms remain the unused Application product that is UI work. SASICU remains the research spare.
