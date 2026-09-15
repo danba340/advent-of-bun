@@ -35,7 +35,7 @@ The porters carry out the transport tasks in a mobile app, on iOS as well as And
 
 [Screenshot: Worklist]
 
-This is the worklist. The team receives the tasks collectively and the porters pick from that list.
+This is the worklist. The team receives the tasks collectively and the porters pick from that list. It has to be clear for the porter when they receive an acute transport. Sound, vibration, and visuals help them prioritize the transportation tasks in the list.
 
 I owned the porter mobile in the same way as the coordinator desktop. I worked on the workflows for when teams pick from a worklist, as well as the workflow where the coordinator decides the priority.
 

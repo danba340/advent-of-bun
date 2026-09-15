@@ -103,6 +103,11 @@ Answer (2026-09-15):
 - Worked on the workflows for when teams collectively receive tasks and pick from a Worklist.
 - Two ways of working, depending on hospital: pick from a Worklist, or receive what the Coordinator says is the priority (mostly 1–2 transports in a row).
 
+Added during Goal 2 (2026-09-15):
+
+- It has to be clear for the Porter when they receive an Acute transport.
+- Sound, vibration, and visuals help them prioritize the transportation tasks in the list.
+
 ## Q8 — Porter mobile: which Screenshots
 
 Asked: which Screenshots of Porter mobile are you allowed to include? Recommended: Worklist; Coordinator-priority view with one or two transports.
