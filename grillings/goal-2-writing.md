@@ -42,4 +42,4 @@ Rationale for the Assessor: contact only. Name, Bankeryd, email, and phone from 
 
 ## Goal 2 closed (2026-09-15)
 
-All five sections approved in `portfolio/text.md`. Goal 3 waits for Screenshot files in the repo.
+All five sections approved in `portfolio/text.md`. Screenshot slots are named placeholders in `screenshots/`. Lisa replaces the files later, same names.

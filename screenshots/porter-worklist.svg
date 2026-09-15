@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="780" viewBox="0 0 390 780" role="img" aria-label="Worklist">
+  <rect width="390" height="780" fill="#e6e2dc"/>
+  <rect x="16" y="16" width="358" height="748" fill="none" stroke="#6f6a63" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="195.0" y="376.0" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2c2a26">Worklist</text>
+  <text x="195.0" y="408.0" text-anchor="middle" font-family="ui-sans-serif, sans-serif" font-size="13" fill="#6f6a63">porter-worklist.svg</text>
+</svg>

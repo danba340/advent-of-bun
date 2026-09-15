@@ -94,7 +94,7 @@ _Avoid_: about me, bio, CV.
 The last section. Contact only.
 
 **Screenshot**:
-A still of Lisa's work that she is allowed to include. She adds these to the repo before Goal 3. Not a stock image and not a recreation unless she says it is.
+A still of Lisa's work that she is allowed to include. Named placeholder files live in `screenshots/`. Lisa replaces those files later, keeping the names. Not a stock image and not a recreation unless she says it is. The placeholders are labeled empty slots, not fake UI.
 
 ## Flagged ambiguities
 
