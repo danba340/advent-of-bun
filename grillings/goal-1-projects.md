@@ -129,4 +129,14 @@ Answer (2026-09-15):
 - Worked on the initial concept.
 - Was the main UX person.
 
-Still needed for this Project: Screenshots if any; accolades; what changed beyond presenting insights.
+Still needed for this Project: accolades; what changed beyond presenting insights.
+
+## Q10 — SASICU: which Screenshots
+
+Asked: what Screenshots, if any, can SASICU include? Recommended: none of a product; maybe one still of the initial concept.
+
+Answer (2026-09-15):
+
+- Pictures of the shadowing.
+- A blurred high-level concept.
+- Flows.
