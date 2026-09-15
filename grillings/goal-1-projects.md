@@ -81,8 +81,6 @@ Answer (2026-09-15):
 - Wrote user stories for needs found during tests, and formulated upcoming features/needs.
 - Worked continuously with the product during her 5 years at Ascom.
 
-Still needed for this Project: accolades if any. Skills and ways of working partly covered (lead designer, tests with coordinators, user stories, continuous product work).
-
 ## Q6 — Coordinator desktop: which Screenshots
 
 Asked: which Screenshots of Coordinator desktop are you allowed to include? Recommended: Dashboard; Porter workload/breaks/shifts; one view of transport types.
@@ -104,8 +102,6 @@ Answer (2026-09-15):
 - Owned it the same way as Coordinator desktop.
 - Worked on the workflows for when teams collectively receive tasks and pick from a Worklist.
 - Two ways of working, depending on hospital: pick from a Worklist, or receive what the Coordinator says is the priority (mostly 1–2 transports in a row).
-
-Still needed for this Project: tests, specs, accolades if any. Do not assume coordinator-style tests or user stories unless she says so.
 
 ## Q8 — Porter mobile: which Screenshots
 
@@ -129,8 +125,6 @@ Answer (2026-09-15):
 - Worked on the initial concept.
 - Was the main UX person.
 
-Still needed for this Project: accolades.
-
 ## Q10 — SASICU: which Screenshots
 
 Asked: what Screenshots, if any, can SASICU include? Recommended: none of a product; maybe one still of the initial concept.
@@ -151,4 +145,22 @@ Answer (2026-09-15):
 - Might become a product or not.
 - She cannot share that.
 
-Write SASICU as research that is still open. No product outcome. Accolades still unasked for all three.
+Write SASICU as research that is still open. No product outcome.
+
+## Q12 — Accolades / close Goal 1
+
+Asked: any accolade on these three we should claim? Recommended: none. Close Goal 1.
+
+Answer (2026-09-15):
+
+- No.
+
+## Goal 1 closed (2026-09-15)
+
+The three Projects:
+
+1. **Coordinator desktop** — Lead designer. Dashboard (time, criticality, overdue). Porter workload, breaks, shifts in prose. Administrator Task type overview and config. Showable: main Dashboard, Administrator Task type pages. Skills: structure, UI, tests with coordinators, user stories, five years on the product.
+2. **Porter mobile** — Owned the same way. Worklist vs Coordinator priority. Showable: Worklist, accepted/Ongoing tasks. Coordinator priority in prose.
+3. **SASICU** — Main UX. Interviews and shadowing in three hospitals (two NL, one SE). Insights. Initial concept. Ongoing, no product claim. Showable: shadowing pictures, blurred high-level concept, flows.
+
+Opening only: Critical alarm handling (formative and summative evaluations, not design). Out: elderly care, assault alarms. No accolades to claim.
