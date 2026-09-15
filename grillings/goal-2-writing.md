@@ -18,6 +18,12 @@ Rationale for the Assessor: a short scan should still show Ascom UX, transport a
 
 ## Coordinator desktop
 
-Drafted 2026-09-15. Waiting on Lisa.
+Approved 2026-09-15.
 
 Rationale for the Assessor: this is the Fleet desk. An eight-hour professional user, status, criticality, overdue, and who is loaded. Lead designer, tests with coordinators, user stories into development, vision with customers. Administrator Task types are the setup layer, like configuring the system before the shift. Outcomes stay the Application's: fewer wrong orders, shorter waits, fewer breaks in care. Porter workload stays in prose. Screenshots sit after the sentence they prove. iOS/Android and statistics wait for Porter mobile or stay out. No tools list.
+
+## Porter mobile
+
+Drafted 2026-09-15. Waiting on Lisa.
+
+Rationale for the Assessor: this is the Fleet field app. Two hospital ways of working, so not one workflow for every site. Worklist is team pick. Coordinator priority is dispatched work, one or two at a time. iOS and Android from the Application. Ownership matches the desktop. No tests-with-porters claim. No second copy of the wrong-order outcomes. Coordinator priority has no still. Screenshots: Worklist, then accepted and Ongoing.

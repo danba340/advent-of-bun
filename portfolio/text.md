@@ -28,3 +28,19 @@ Administrators configure the different task types.
 The coordinators then see those types in the dashboard.
 
 The work has had a strong focus on reducing wrong orders, shortening waiting times, and avoiding breaks in the care process.
+
+## Porter mobile
+
+The porters carry out the transport tasks in a mobile app, on iOS as well as Android. Depending on the hospital there are two different ways of working. Either the team picks from a shared worklist, or the porter receives what the coordinator has set as the priority, mostly one or two transports in a row.
+
+[Screenshot: Worklist]
+
+This is the worklist. The team receives the tasks collectively and the porters pick from that list.
+
+I owned the porter mobile in the same way as the coordinator desktop. I worked on the workflows for when teams pick from a worklist, as well as the workflow where the coordinator decides the priority.
+
+[Screenshot: accepted and ongoing tasks]
+
+When a porter has accepted a task, this is the page for accepted and ongoing work.
+
+The work has had a strong focus on supporting both ways of working, depending on the hospital.
