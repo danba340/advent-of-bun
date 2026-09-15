@@ -173,3 +173,5 @@ dist
 # Portfolio export scratch/output
 /build/
 /dist/
+__pycache__/
+
