@@ -60,4 +60,4 @@ Named placeholder files in `screenshots/`. Lisa replaces them later, same names.
 
 2026-09-15. SASICU is ongoing. It might become a product or not. That is not shareable. No product outcome in the Portfolio.
 
-2026-09-15. Goal 3 started. Five HTML variants in `portfolio/variants/`. Lisa still replaces Screenshot files later.
+2026-09-15. Goal 3: Lisa picked Birch shop. Chosen file `portfolio/lisa-bark.html`. Screenshot files still placeholders.

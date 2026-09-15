@@ -14,4 +14,4 @@ Avoided: cream + terracotta serif, black + acid accent, newspaper hairlines, Saa
 
 ## Status
 
-Drafted 2026-09-15. Waiting on Lisa to pick one.
+Lisa picked **5. Birch shop** on 2026-09-15. Chosen file: `portfolio/lisa-bark.html`. Waiting on tweaks, then PDF + DOCX export.
