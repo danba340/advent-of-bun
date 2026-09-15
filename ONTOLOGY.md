@@ -33,7 +33,11 @@ Ascom's hospital internal transport system. One product, two of the three Portfo
 _Avoid_: treating Transport as a third, separate Project.
 
 **Coordinator desktop**:
-Portfolio Project. Desktop software for the Coordinator: coordination and status of current and future transports.
+Portfolio Project. Lisa was lead designer. Desktop software for the Coordinator. Main structure of the coordination workflow: overview of different types of transports. Dashboard of tasks (time, criticality, overdue). Control of each Porter's workload, breaks, and shifts.
+
+**Dashboard**:
+The Coordinator desktop surface where the Coordinator reads tasks, focusing on time, criticality, and overdue statuses.
+_Avoid_: calling the whole Coordinator desktop the Dashboard.
 
 **Porter mobile**:
 Portfolio Project. Mobile workflow for the Porter: receiving and executing transportation tasks.
@@ -42,7 +46,8 @@ Portfolio Project. Mobile workflow for the Porter: receiving and executing trans
 Portfolio Project. EU research on ICU alarm handling. Interviews and observation, risk, concept for alarm levels. Not a shipped UI Project.
 
 **Coordinator**:
-Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Coordinates and watches status of current and future transports.
+Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Reads the Dashboard. Controls each Porter's workload, breaks, and shifts.
+_Avoid_: executer. The person who runs the tasks is the Porter.
 
 **Porter**:
 Mobile user of Transport. Receives transportation tasks and executes them.

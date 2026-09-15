@@ -64,3 +64,21 @@ Answer (2026-09-15):
 3. SASICU
 
 Out: elderly care, assault alarms. Opening only: Critical alarm handling.
+
+## Q5 — Coordinator desktop: what Lisa did beyond the Application
+
+Asked: on Coordinator desktop, what did you personally do that is not already in the Transport-wide Application list?
+
+Answer (2026-09-15):
+
+- Lead designer for Coordinator desktop.
+- Designed the main structure of the coordination workflow.
+- Main focus: overview of different types of transports.
+- Coordinator reads tasks in the Dashboard, focusing on time, criticality, overdue statuses.
+- Coordinator also has control over each Porter's workload, breaks, and shifts.
+- Created the UI elements of the desktop app.
+- Tested the interactions with coordinators.
+- Wrote user stories for needs found during tests, and formulated upcoming features/needs.
+- Worked continuously with the product during her 5 years at Ascom.
+
+Still needed for this Project: what Screenshots she may include; accolades if any. Skills and ways of working partly covered (lead designer, tests with coordinators, user stories, continuous product work).
