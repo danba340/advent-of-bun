@@ -117,3 +117,16 @@ Answer (2026-09-15):
 - The page for accepted and Ongoing tasks.
 
 Not offered: a separate still of Coordinator priority. Write that mode in prose.
+
+## Q9 — SASICU: what Lisa did beyond the Application
+
+Asked: on SASICU, what did you personally do that is not already in the Application list? Recommended: owned needs work and alarm-level concept; ran interviews and observation; presented; no shipped UI; the UX person on it.
+
+Answer (2026-09-15):
+
+- Conducted user interviews and a shadowing/observation study in three hospitals: two in the Netherlands, one in Sweden.
+- Conducted and worked on insights.
+- Worked on the initial concept.
+- Was the main UX person.
+
+Still needed for this Project: Screenshots if any; accolades; what changed beyond presenting insights.

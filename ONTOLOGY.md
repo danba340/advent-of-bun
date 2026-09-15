@@ -59,7 +59,7 @@ Hospital way of working on Porter mobile. The Porter receives what the Coordinat
 _Avoid_: treating this as the only mobile workflow. Some hospitals use Worklist. No separate Screenshot of this mode has been offered.
 
 **SASICU**:
-Portfolio Project. EU research on ICU alarm handling. Interviews and observation, risk, concept for alarm levels. Not a shipped UI Project.
+Portfolio Project. EU research on ICU alarm handling. Lisa was the main UX person. Interviews and shadowing in three hospitals (two in the Netherlands, one in Sweden). Insights. Initial concept for alarm levels. Not a shipped UI Project.
 
 **Coordinator**:
 Desktop user of Transport. Sits an 8-hour shift in larger hospitals. Reads the Dashboard. Controls each Porter's workload, breaks, and shifts.
