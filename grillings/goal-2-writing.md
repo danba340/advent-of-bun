@@ -36,6 +36,10 @@ Rationale for the Assessor: this is research through concept, which the Job asks
 
 ## Close
 
-Drafted 2026-09-15. Waiting on Lisa.
+Approved 2026-09-15. Name, Bankeryd, email, phone.
 
 Rationale for the Assessor: contact only. Name, Bankeryd, email, and phone from the Application. Bankeryd is here because the Job is on-site in Huskvarna at least four days a week. No street address. No LinkedIn (none supplied for the Portfolio). No recap of the Projects. No thank-you line.
+
+## Goal 2 closed (2026-09-15)
+
+All five sections approved in `portfolio/text.md`. Goal 3 waits for Screenshot files in the repo.
