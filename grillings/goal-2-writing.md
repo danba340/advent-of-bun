@@ -12,6 +12,12 @@ Answer (2026-09-15):
 
 ## Opening
 
+Approved 2026-09-15. Application cadence. 148 words.
+
+Rationale for the Assessor: a short scan should still show Ascom UX, transport as desk plus field, evaluation she did not design, SASICU as open research, and Fleet as web plus mobile for connected machines. The rewrite follows the Application: company purpose, "I get to work with the whole design process, from … to …", "a project I have driven throughout my employment", "as well as", "I have not worked with the design for that product", "the work has a strong focus on". Lead designer stays for the Coordinator desktop section. Interview counts and concept detail stay for SASICU. 148 words.
+
+## Coordinator desktop
+
 Drafted 2026-09-15. Waiting on Lisa.
 
-Rationale for the Assessor: a short scan should show current Ascom UX, five years, lead on desk plus field for hospital transport, medical-device evaluation she did not design, and SASICU as open research. Last paragraph names Fleet as web plus mobile for connected machines (status, overdue, people in the field) and stops. No recap that restates her desktop and mobile. Worklist vs Coordinator priority, Administrator Task types, Dashboard fields, and Transport outcomes stay in the Projects. 114 words. No CV, education, or Sahlgrenska.
+Rationale for the Assessor: this is the Fleet desk. An eight-hour professional user, status, criticality, overdue, and who is loaded. Lead designer, tests with coordinators, user stories into development, vision with customers. Administrator Task types are the setup layer, like configuring the system before the shift. Outcomes stay the Application's: fewer wrong orders, shorter waits, fewer breaks in care. Porter workload stays in prose. Screenshots sit after the sentence they prove. iOS/Android and statistics wait for Porter mobile or stay out. No tools list.
